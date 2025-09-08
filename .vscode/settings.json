@@ -3,6 +3,8 @@
     "files.associations": {
         "deque": "cpp",
         "xstring": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "cstdlib": "cpp",
+        "utility": "cpp"
     }
 }
