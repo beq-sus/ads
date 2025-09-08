@@ -3,7 +3,7 @@ using namespace std;
 
 struct ListNode{
     string val;
-    ListNode* next;
+    ListNode* 7;
 
     ListNode(string x){
         val = x;
