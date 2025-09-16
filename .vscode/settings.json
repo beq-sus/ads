@@ -5,6 +5,8 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "cstdlib": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "iostream": "cpp",
+        "initializer_list": "cpp"
     }
 }
