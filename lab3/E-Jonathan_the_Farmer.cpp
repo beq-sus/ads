@@ -11,10 +11,7 @@ int main(){
         cin >> x1 >> y1 >> x2 >> y2;
         v[i] = max(x2, y2);
     }
-
     sort(v.begin(), v.end());
     cout << v[k-1];
-    
-
     return 0;
 }
